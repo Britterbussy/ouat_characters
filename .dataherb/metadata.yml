@@ -1,8 +1,5 @@
-name: [Name of your dataset]
+name: [OUAT Characters]
 description: [Describe your dataset here]
-contributors:
-- name: [Name of the the first contributor]
-data:
 - name: [name of your data file, optional]
   description: [description of your data file, optional]
   path: [path_to_your_data_file.csv]
